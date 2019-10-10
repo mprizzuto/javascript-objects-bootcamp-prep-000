@@ -12,7 +12,7 @@ function updatePlaylist(playlist,artistName,songTitle){
 
 }
 
-function  removeFromPlaylist(){ 
+function  removeFromPlaylist(artistName){ 
   
   
 }
